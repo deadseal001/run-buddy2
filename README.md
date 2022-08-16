@@ -12,3 +12,6 @@ https://deadseal001.github.io/run-buddy2/
 
 ## Contribution
 Made with ❤️ by Wenbo Li
+
+
+### ©️2022 Run Buddy, Inc
