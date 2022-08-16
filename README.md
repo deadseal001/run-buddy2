@@ -19,4 +19,3 @@ Made with ❤️ by Wenbo Li
 conflict test
 =======
 ### Run Buddy, Inc
->>>>>>> 1be1a94 (update readme file)
